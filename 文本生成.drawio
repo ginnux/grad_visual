@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="第 1 页" id="Nr3C_9GDSB34cHPYUgom">
-    <mxGraphModel>
+    <mxGraphModel dx="2068" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G1YcC---lPvsfpwXIiWh-1" value="Answer: Mondays in Chengdu are usually busy due to the large number of students returning to school and office workers commuting to work." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G1YcC---lPvsfpwXIiWh-2" value="&lt;div style=&quot;color: #d8dee9;background-color: #1a1a1a;font-family: Maple Mono CN, &#39;Courier New&#39;, monospace, Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 22px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #e394dc;&quot;&gt;&quot;Summarize in one sentence the usual traffic conditions in the city of Chengdu on Mondays. Answer Format: &#39;Answer: &amp;lt;sentence&amp;gt;&#39;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="560" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
