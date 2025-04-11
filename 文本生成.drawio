@@ -13,6 +13,9 @@
         <mxCell id="G1YcC---lPvsfpwXIiWh-3" value="Answer: On Sundays, the usual traffic conditions in the city of Chengdu are generally heavy, with increased congestion due to the large number of locals and tourists traveling to popular destinations, shopping areas, and entertainment venues." style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="820" y="840" width="560" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="G1YcC---lPvsfpwXIiWh-4" value="On Wednesdays, the usual traffic conditions in Chengdu are moderate, with moderate congestion on major roads, especially during peak hours, but generally manageable with a 30-60 minute travel time for most routes." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="560" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
