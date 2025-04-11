@@ -16,6 +16,9 @@
         <mxCell id="G1YcC---lPvsfpwXIiWh-4" value="On Wednesdays, the usual traffic conditions in Chengdu are moderate, with moderate congestion on major roads, especially during peak hours, but generally manageable with a 30-60 minute travel time for most routes." style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="750" width="560" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="G1YcC---lPvsfpwXIiWh-5" value="On Thursdays, the usual traffic conditions in Xi&#39;an are relatively heavy due to the morning rush hour and the afternoon commute, with congestion often reported along major highways and roads connecting the city center to surrounding suburbs." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="560" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
