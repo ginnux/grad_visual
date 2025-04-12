@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="第 1 页" id="Nr3C_9GDSB34cHPYUgom">
-    <mxGraphModel dx="838" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,18 @@
         </mxCell>
         <mxCell id="qpKf4sebyAIPTmqKJR-J-15" value="&lt;span style=&quot;font-family: &amp;quot;Maple Mono CN&amp;quot;;&quot;&gt;Answer: Mondays in Chengdu are usually busy due to the large number of students returning to &lt;u&gt;school&lt;/u&gt; and &lt;u&gt;office&lt;/u&gt; workers commuting to work.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210.06" y="360" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qpKf4sebyAIPTmqKJR-J-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qpKf4sebyAIPTmqKJR-J-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160.08" y="280" width="39.92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qpKf4sebyAIPTmqKJR-J-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE0My43NTIxMzM4NDYyODI5NiIgd2lkdGg9IjEzMS43MTk3MjAzNjM2MTY5NCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIxNzQuODE2MDI0NzgwMjczNDQgMTQ2Ljc1Mjk3NTQ2Mzg2NzIgNjc0LjQwNDk2ODI2MTcxODggNzM2LjAxMDkyNTI5Mjk2ODgiIGNsYXNzPSJpY29uIj48cGF0aCBmaWxsPSIjMmMyYzJjIiBkPSJNNjk1LjcxNSAzOTEuODg0aC0zNjcuNjg5Yy0xNi45MzcgMC0zMC42NDEgMTMuNzAzLTMwLjY0MSAzMC42NDFzMTMuNzA0IDMwLjY0MSAzMC42NDEgMzAuNjQxaDM2Ny42ODljMTYuOTM3IDAgMzAuNjQxLTEzLjcwNCAzMC42NDEtMzAuNjQxcy0xMy43MDQtMzAuNjQxLTMwLjY0MS0zMC42NDF6TTY5NS43MTUgMjY5LjMxN2gtMzY3LjY4OWMtMTYuOTM3IDAtMzAuNjQxIDEzLjcwNC0zMC42NDEgMzAuNjQxczEzLjcwNCAzMC42NDEgMzAuNjQxIDMwLjY0MWgzNjcuNjg5YzAuMDA4IDAgMC4wMTIgMCAwLjAyMCAwIDE2LjkxMiAwIDMwLjYyMS0xMy43MSAzMC42MjEtMzAuNjIxIDAtMC4wMDcgMC0wLjAxMyAwLTAuMDIwIDAtMC4wMDUgMC0wLjAwOCAwLTAuMDE0IDAtMTYuOTE0LTEzLjcxMy0zMC42MjYtMzAuNjI2LTMwLjYyNi0wLjAwNyAwLTAuMDA5IDAtMC4wMTcgMHpNODQ4LjkxOCA2MzIuOTcydi00MjQuOTM3YzAtMzMuODQxLTI3LjQzNy02MS4yODItNjEuMjgyLTYxLjI4MmgtNTUxLjUzOGMtMzMuODQxIDAtNjEuMjgyIDI3LjQ0Mi02MS4yODIgNjEuMjgydjYxMi44MTljMCAzMy44NDUgMjcuNDQyIDYxLjI4MiA2MS4yODIgNjEuMjgyaDM2MS40NDJjMS44NTQgMC40MDEgMy45ODYgMC42MjggNi4xNyAwLjYyOCA4LjQ1OCAwIDE2LjExNC0zLjQzMSAyMS42NTMtOC45NzhsMjE0Ljg3NS0yMTQuODc1YzUuNTQ5LTUuNTM1IDguOTgzLTEzLjE5MSA4Ljk4My0yMS42NDggMC0xLjUxNC0wLjExLTMuMDAyLTAuMzIzLTQuNDU4ek02MzQuNDM0IDc3OC4wNjR2LTExMC40MTdoMTEwLjQxN2wtMTEwLjQxNyAxMTAuNDE3ek03ODcuNjM3IDYwNi4zNjZoLTE4My44NDVjLTAuMDA2IDAtMC4wMDggMC0wLjAxNSAwLTE2LjkxNCAwLTMwLjYyNiAxMy43MTMtMzAuNjI2IDMwLjYyNiAwIDAuMDA3IDAgMC4wMDkgMCAwLjAxN2wwLjAwNSAwLjE2Mi0wLjAwNSAwLjE2M3YxODMuNTE0aC0zMDYuNDA3Yy0wLjAwNiAwLTAuMDA4IDAtMC4wMTUgMC0xNi45MTMgMC0zMC42MjYtMTMuNzEzLTMwLjYyNi0zMC42MjYgMC0wLjAwNyAwLTAuMDA5IDAtMC4wMTd2LTU1MS41MjhjMC0wLjAwNiAwLTAuMDA4IDAtMC4wMTUgMC0xNi45MTQgMTMuNzEzLTMwLjYyNiAzMC42MjYtMzAuNjI2IDAuMDA3IDAgMC4wMDkgMCAwLjAxNyAwaDQ5MC4yNTJjMC4wMDcgMCAwLjAxMiAwIDAuMDIwIDAgMTYuOTEyIDAgMzAuNjIyIDEzLjcxIDMwLjYyMiAzMC42MjIgMCAwLjAwNyAwIDAuMDEzIDAgMC4wMjB2MzY3LjY4OHoiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="167.94" y="286.82" width="24.17" height="26.37" as="geometry" />
+        </mxCell>
+        <mxCell id="qpKf4sebyAIPTmqKJR-J-19" value="Prompt模板：Summarize in one sentence the usual traffic conditions in the city of &lt;b&gt;{city}&lt;/b&gt;&amp;nbsp;on &lt;b&gt;{weekdays}&lt;/b&gt;. Answer Format: &#39;Answer: &amp;lt;sentence&amp;gt;&#39;" style="text;whiteSpace=wrap;html=1;fontFamily=Maple Mono CN;" vertex="1" parent="1">
+          <mxGeometry x="210.01" y="280" width="499.99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
